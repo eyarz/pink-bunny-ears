@@ -1,3 +1,3 @@
-# sheep-hat
+# pink-bunny-ears
 
-![image](https://user-images.githubusercontent.com/19731161/134805324-15c540b9-56aa-4344-a1a3-d2350c78d838.png)
+<img src="https://user-images.githubusercontent.com/19731161/137582292-56903e25-3ec2-4389-b737-480b52ff9724.png" alt="Datree-cli" width="30%" height="30%">
