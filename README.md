@@ -1,5 +1,6 @@
 
 # Resources from the presentation
+### [Validating Configs from Code to Deployment in the GitOps World](https://github.com/eyarz/pink-bunny-ears/blob/main/Validating%20Configs%20from%20Code%20to%20Deployment.pdf)
 
 <img src="https://user-images.githubusercontent.com/19731161/137582292-56903e25-3ec2-4389-b737-480b52ff9724.png" alt="Datree-cli" width="30%" height="30%">
 
