@@ -1,3 +1,10 @@
+# Validating Configs from Code to Deployment
+
+With great power comes great responsibility. While GitOps empowers your engineering organization with greater ownership - it can also have the downsides of being dangerous, if not properly managed and configured, as ultimately every engineer can impact production.
+
+In this talk, we will go over some best practices when applying GitOps in your engineering organization, and ways to automate the validation of Infrastructure as Code config files, in order to build stability inherently into your GitOps practices.
+
+https://www.youtube.com/watch?v=m1hReRl7fDk // WTF is Cloud Native? Conference
 
 # Resources from the presentation
 ### [Validating Configs from Code to Deployment in the GitOps World](https://github.com/eyarz/pink-bunny-ears/blob/main/Validating%20Configs%20from%20Code%20to%20Deployment.pdf)
