@@ -1,0 +1,1 @@
+# Your open source project is like a startup, treat it like one!
